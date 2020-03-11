@@ -65,6 +65,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [Teach Access](http://teachaccess.org/) Study Away Silicon Valley - In partnership with [PEAT](https://www.peatworks.org/)
 - [Teach Access Tutorial](https://teachaccess.github.io/tutorial/)
 - [OpenU UK Accessibility of eLearning](https://www.open.edu/openlearn/education-development/education-careers/accessibility-elearning/content-section-0?active-tab=content-tab)
+- [LinkedIN Learning: Accessibility for Web Design with Derek Featherstone](https://www.linkedin.com/learning/accessibility-for-web-design/welcome)
 
 Study Away Silicon Valley
 
