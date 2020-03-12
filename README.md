@@ -30,6 +30,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [Team Treehouse - Web Accessibility Compliance](https://teamtreehouse.com/library/web-accessibility-compliance)
 - [UX Foundations: Accessibility](https://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html)
 - [WebAIM's Web Accessibility Training](http://webaim.org/training/)
+- [LinkedIN Learning: Accessibility for Web Design with Derek Featherstone](https://www.linkedin.com/learning/accessibility-for-web-design/welcome) - Free with a LinkedIn Learning membership.
 
 
 ## Conferences & Events
@@ -52,6 +53,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [Web4All](http://w4a.info)
 - [ZeroCon](https://conference.zeroproject.org/)
 
+
 ## Free
 - [Accessibility MOOC](http://accessibility.mrooms.net/#a11y) - Inclusive Online Course Design
 - [Digital Accessibility as a Business Practice](https://de.ryerson.ca/wa/business/)
@@ -65,9 +67,8 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [Teach Access](http://teachaccess.org/) Study Away Silicon Valley - In partnership with [PEAT](https://www.peatworks.org/)
 - [Teach Access Tutorial](https://teachaccess.github.io/tutorial/)
 - [OpenU UK Accessibility of eLearning](https://www.open.edu/openlearn/education-development/education-careers/accessibility-elearning/content-section-0?active-tab=content-tab)
-- [LinkedIN Learning: Accessibility for Web Design with Derek Featherstone](https://www.linkedin.com/learning/accessibility-for-web-design/welcome)
 
-Study Away Silicon Valley
+Study Away Silicon Valley - http://teachaccess.org/studyaway/
 
 - [UC Berkeley Intro to Course #Accessibility](http://bit.ly/coursea11y) - 6 modules on designing accessible content
 - [Open.edu: Assistive technologies and online learning](http://www.open.edu/openlearn/education-development/assistive-technologies-and-online-learning/content-section-0)
