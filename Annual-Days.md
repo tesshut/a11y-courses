@@ -1,6 +1,7 @@
 - **January is Glaucoma Awareness Month**
 - Jan 4 - World Braille Day
 - February 10 - International Epilepsy Day 2020
+- March 1 - International Wheelchair Day
 - **April is Crrtical Visual Impairment (CVI) Literacy Awareness Month**
 - April 2 - World Autism Day
 - April 11 - World Parkinson’s Day
