@@ -13,3 +13,5 @@
 ## Youtube Channels
 1. [W3C WAI](https://www.youtube.com/channel/UCU6ljj3m1fglIPjSjs2DpRA)
 1. [Barclays](https://www.youtube.com/playlist?list=PL5NlUJaOA8R-aAiQdAqbqm7J_T42y6b7S)
+1. [Deque](https://www.youtube.com/user/DequeSystemsInc)
+1. [The Paciello Group](https://www.youtube.com/user/ThePacielloGroup)
