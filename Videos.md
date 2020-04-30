@@ -15,3 +15,4 @@
 1. [Barclays](https://www.youtube.com/playlist?list=PL5NlUJaOA8R-aAiQdAqbqm7J_T42y6b7S)
 1. [Deque](https://www.youtube.com/user/DequeSystemsInc)
 1. [The Paciello Group](https://www.youtube.com/user/ThePacielloGroup)
+1. [MSFTEnable](https://www.youtube.com/channel/UCSKM9uIhS6B77RX56JwUJSw)
