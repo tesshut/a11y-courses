@@ -5,6 +5,7 @@
 1. [W3C WAI - Introduction to Web Accessibility and W3C Standards](https://www.youtube.com/watch?v=20SHvU2PKsM)
 1. [Barclays - Let's Talk Accessibility](https://www.youtube.com/watch?v=IQ8inkANj9Q&list=PL5NlUJaOA8R-aAiQdAqbqm7J_T42y6b7S&index=12)
 1. [Australian Network on Disability - Access and Inclusion is Good for Business](https://www.youtube.com/watch?v=vH5NjhGwmaY)
+1. [Women Techmakers: What is Web Accessibility in 60 seconds!](https://www.youtube.com/watch?v=hufMi9LZX2I)
 
 
 ## Videos on WCAG
