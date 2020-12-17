@@ -1,8 +1,8 @@
 - **January is Glaucoma Awareness Month**
 - Jan 4 - [World Braille Day](https://www.un.org/en/observances/braille-day)
 - Early February 10 - [International Epilepsy Day](https://internationalepilepsyday.org/)
-- March 1 - International Wheelchair Day
-- **April is Crrtical Visual Impairment (CVI) Literacy Awareness Month**
+- March 1 - [International Wheelchair Day](https://internationalwheelchairday.wordpress.com/)
+- **April is [Crtical Visual Impairment (CVI) Literacy Awareness Month](https://www.pathstoliteracy.org/resources/cvi-literacy-awareness-month)**
 - April 2 - [World Autism Day](https://en.wikipedia.org/wiki/World_Autism_Awareness_Day)
 - April 11 - World Parkinson’s Day
 - **May is Healthy Vision Month**
