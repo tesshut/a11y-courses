@@ -3,7 +3,7 @@
 - Early February 10 - [International Epilepsy Day](https://internationalepilepsyday.org/)
 - March 1 - International Wheelchair Day
 - **April is Crrtical Visual Impairment (CVI) Literacy Awareness Month**
-- April 2 - World Autism Day
+- April 2 - [World Autism Day](https://en.wikipedia.org/wiki/World_Autism_Awareness_Day)
 - April 11 - World Parkinson’s Day
 - **May is Healthy Vision Month**
 - **May is Blind Awareness Month**
