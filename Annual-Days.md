@@ -7,7 +7,7 @@
 - April 11 - World Parkinson’s Day
 - **May is Healthy Vision Month**
 - **May is Blind Awareness Month**
-- May 21 2020 (3rd Thursday each May) - GAAD
+- May 20 2021 (3rd Thursday each May) - [Global Accessibility Awareness Day (GAAD)[(https://en.wikipedia.org/wiki/Global_Accessibility_Awareness_Day)
 - **June is Deaf-Blind Awareness Month**
 - June 20 - Nystagmus Awareness Day
 - **July is Eye Injury Prevention Month**
