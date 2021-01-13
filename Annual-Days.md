@@ -20,3 +20,5 @@
 - October 16 - White Cane Day
 - October 8, 2020 (2nd Thursday of October) - World Sight Day (WSD)
 - Dec 3 - International Day of Persons with Disabilities
+
+Also see - https://disabilityin.org/resource/2020-calendar-of-disability-related-dates/ 
