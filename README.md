@@ -57,7 +57,8 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 
 ## Free
 - [Digital Accessibility as a Business Practice](https://de.ryerson.ca/wa/business/)
-- [Future Learn - Digital Accessibility: Enabling Participation in the Information Society](https://www.futurelearn.com/courses/digital-accessibility)
+- [Future Learn - Digital Accessibility: Enabling Participation in the Information Society](https://www.futurelearn.com/courses/digital-accessibility) - Not Running Now
+- [Future Learn - Create Accessible Interfaces](https://www.futurelearn.com/courses/create-accessible-interfaces)
 - [Google's Udacity Accessibility course (text version)](https://developers.google.com/web/fundamentals/accessibility/)
 - [Google's Udacity Web Accessibility - Developing with Empathy](https://www.udacity.com/course/web-accessibility--ud891)
 - [Microsoft's Training teachers to author accessible content ](https://education.microsoft.com/courses-and-resources/courses/training-teachers-to-author-accessible-content)
@@ -77,6 +78,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [Minnesota IT Services: Accessible Word Document Training](https://mn.gov/mnit/about-mnit/accessibility/training/)
 - [UNICEF Agora Training on Web Accessibility](https://agora.unicef.org/local/search/index.php?resetsession=1&search=accessibility)
 - [edX & W3C - Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
+- [edX & Georgia Tech - Information and Communication Technology (ICT) Accessibility](https://www.edx.org/course/information-and-communication-technology-ict-acces)
 - [Accessibility MOOC](http://accessibility.mrooms.net/#a11y) - Inclusive Online Course Design LAST UPDATED 2018
 
 ## Webinars  
