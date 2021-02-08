@@ -76,7 +76,6 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [University of Colorado Boulder & Coursera: Basics of Inclusive Design for Online Education](https://www.coursera.org/learn/inclusive-design)
 - [University of Pittsburgh & Coursera: Disability Awareness and Support](https://www.coursera.org/learn/disability-awareness)
 - [Minnesota IT Services: Accessible Word Document Training](https://mn.gov/mnit/about-mnit/accessibility/training/)
-- [UNICEF Agora Training on Web Accessibility](https://agora.unicef.org/local/search/index.php?resetsession=1&search=accessibility)
 - [edX & W3C - Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/foundations-course/)
 - [edX & Georgia Tech - Information and Communication Technology (ICT) Accessibility](https://www.edx.org/course/information-and-communication-technology-ict-acces)
 - [Accessibility MOOC](http://accessibility.mrooms.net/#a11y) - Inclusive Online Course Design LAST UPDATED 2018
