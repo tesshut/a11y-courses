@@ -8,7 +8,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [Media Access Australia (W3C Member): **Professional Certificate** in Web Accessibility](https://www.mediaaccess.org.au/digitalaccessibilityservices/services/education-and-training/pcwa/)
 - [Mohawk College: **Ontario College Graduate Certificate** in Accessible Media Production](https://www.mohawkcollege.ca/programs/graduate-studies/accessible-media-production-390)
 - [University of Illinois DRES IT Accessibility Badging Program](http://disability.illinois.edu/academic-support/accessible-it-group/badging)
-- [University of Illinois Information Accessibility Design and Policy (IADP): **Certificate Program**](https://online.illinois.edu/online-programs/graduate-certificates/information-accessibility-design-policy?iadp)
+- [University of Illinois Information Accessibility Design and Policy (IADP): **Certificate Program**](http://iadp.ahs.illinois.edu)
 - [University of South Australia: **Professional Certificate** in Web Accessibility](https://unisa.edu.au/education-arts-and-social-sciences/school-of-creative-industries/degrees/short-programs/professional-certificate-in-web-accessibility/)
 - [Ryerson University: The Chang School: Web Accessibility Auditing and Reporting](https://continuing.ryerson.ca/search/publicCourseSearchDetails.do?method=load&courseId=258041&selectedProgramAreaId=18614&selectedProgramStreamId=18642)
 - [University of Wisconsin-Milwaukee: Certificate in Assistive Technology & Accessible Design](https://uwm.edu/healthsciences/academics/certificate-in-assistive-technology-accessible-design/)
