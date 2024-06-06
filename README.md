@@ -29,8 +29,9 @@ Courses, webinars, educational videos, and more, offered in web accessibility. A
 - [Team Treehouse - Web Accessibility Compliance](https://teamtreehouse.com/library/web-accessibility-compliance)
 - [UX Foundations: Accessibility](https://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html)
 - [WebAIM's Web Accessibility Training](http://webaim.org/training/)
-- [LinkedIN Learning: Accessibility for Web Design with Derek Featherstone](https://www.linkedin.com/learning/accessibility-for-web-design/welcome) - Free with a LinkedIn Learning membership.
 - [A11y Collective](https://a11y-collective.com/) - a new e-learning platform for people who want to dive deep into digital accessibility. 
+- [LinkedIN Learning: Accessibility for Web Design with Derek Featherstone](https://www.linkedin.com/learning/accessibility-for-web-design/welcome) - Free with a LinkedIn Learning membership.
+- [LinkedIN Learning: Auditing Design Systems for Accessibility](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility) - Free with a LinkedIn Learning membership.
 
 
 ## Conferences & Events
