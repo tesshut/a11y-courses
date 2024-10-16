@@ -20,6 +20,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility. A
 ## Private (Paid)
 - [4syllables's Accessibility for web writers](http://4syllables.com.au/training/web-writing-accessibility/)
 - [Deque University](https://www.deque.com/services/deque-university/) - Note: [PwD are eligible for scholarships](https://dequeuniversity.com/scholarships)
+- [Intopia Learn](https://learn.intopia.digital/)
 - [Level Access (previously SSB Bart Group) - Access University](https://www.levelaccess.com/products/access-university/)
 - [Online Learning Consortium (OLC) Institute for Professional Development Accessibility Track](https://onlinelearningconsortium.org/learn/olc-new-institute-schedule/#track-Accessibility)
 - [Pacellio Group - TPG Tutor](https://www.paciellogroup.com/products/tpg-tutor/)
@@ -61,6 +62,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility. A
 - [Future Learn - Create Accessible Interfaces](https://www.futurelearn.com/courses/create-accessible-interfaces)
 - [Google's Udacity Accessibility course (text version)](https://developers.google.com/web/fundamentals/accessibility/)
 - [Google's Udacity Web Accessibility - Developing with Empathy](https://www.udacity.com/course/web-accessibility--ud891)
+- [Intopia Learn - free Fundamentals, WCAG 2.2, Word courses](https://learn.intopia.digital/collections/free-courses)
 - [Microsoft's Training teachers to author accessible content ](https://education.microsoft.com/courses-and-resources/courses/training-teachers-to-author-accessible-content)
 - [Microsoft's Accessibility fundamentals]()https://docs.microsoft.com/en-us/learn/paths/accessibility-fundamentals/
 - [Professional Web #A11y Auditing Made Easy](https://de.ryerson.ca/wa/)
